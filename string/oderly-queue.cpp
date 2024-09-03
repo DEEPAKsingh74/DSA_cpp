@@ -19,6 +19,8 @@ using namespace std;
 
 3. DESCRIPTION:
 	5. Given a string and an integer k, we have to find the lexicographically smallest string we can get by applying the operation any number of times.
+	5. The operation is defined as follows:
+		5. We can rotate the string by taking the first character and putting it at the end of the string.
 
 3. APPROACH:
 	5. If k > 1, then we can sort the string and return it.
