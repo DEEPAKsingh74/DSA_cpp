@@ -23,7 +23,7 @@ using namespace std;
 
 3. APPROACH:
 	5. We will use the concept of multiplication of large numbers.
-	5. We will maintain an array of size 10000 and initialize it with 0.
+	5. We will maintain an array of size 10000 and initialize it with 1.
 	5. We will start multiplying the number with the array and store the result in the array.
 	5. We will keep track of the carry and update the array accordingly.
 
